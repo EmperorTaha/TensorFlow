@@ -6,3 +6,4 @@ A short compilations of codes written where different ML Models are used
 - Linear Regression
 - Non Linear Polynomial
 - Polynomial Regression
+- DecisionTreeClassifier
